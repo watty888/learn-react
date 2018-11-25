@@ -50,7 +50,7 @@ class App extends Component {
         <p>This is really working!</p>
         <button 
           style={style}
-          onClick={() => this.switchNameHandler('Maximilian!!')}>Switch Name</button>
+          onClick={() => this.switchNameHandler('Maxidfdfdfdfdfdmilian!!')}>Switch Name</button>
         <Person 
           name={this.state.persons[0].name} 
           age={this.state.persons[0].age} />
